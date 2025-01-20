@@ -33,3 +33,6 @@ Complete the methods of the AuthService in client/src/utils/auth.ts.
 ## References
 
 I had some help with bootcamp course info, chatGPT, and stackoverflow
+
+## Disclaimer
+I could not get this to work on render
